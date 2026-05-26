@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cartearse",
+        "uuid": 9760134,
+        "checksum": "1mhaxs"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
